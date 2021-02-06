@@ -2,7 +2,7 @@
 
 This is a list of requirements I've used for naming products/projects/tools. It leans somewhat towards developer tools, because that is what I usually make, but it is probably useful for naming all sorts of things.
 
-My usual process involves Thesauruses, Wikipedia, Googling, around the topic. Perhaps finding similar concepts in fiction. I'll usually pick a single word, unless some amalgamation works particularly well (e.g. GitHub). I don't use a silly made-up name unless it's really good.
+My usual process involves using Google, Wikipedia, Thesauruses to explore around a topic. Perhaps finding similar concepts in fiction. I'll usually pick a single word, unless some amalgamation works particularly well (e.g. GitHub). I don't use a silly made-up name unless it's really good.
 
 Then, once I've got a list of potential names, I'll run them through the test suite. That'll usually leave a shortlist, then I just pick the one that feels right.
 
