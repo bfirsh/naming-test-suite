@@ -13,6 +13,7 @@ Then, once I've got a list of potential names, I'll run them through the test su
 - **Is package available on the main language repository?** (e.g. [PyPi](https://pypi.org), [npm](https://www.npmjs.com))
 - **Can it be mistaken for something similar?**
 - **Can it be misspelled easily?**
+- **Is it satisfying to say?** GitHub, Docker, cron, bash. Feels like you're beating a drum. It rolls off the tongue.
 - **Is its pronounciation unambiguous?** Though this doesn't matter if you want smug know-it-alls as your users. (See also: La Croix.)
 - **Is it memorable?** Wait a day and see if you can remember it.
 - **[What do the Google results look like?](https://www.google.com/)**
